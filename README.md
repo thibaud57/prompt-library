@@ -9,7 +9,7 @@ Je partage ici mes prompts les plus utiles que j'utilise au quotidien pour accé
 ## 📚 Liste des prompts disponibles
 
 ### 1. Prof Programmation
-**Fichier** : [`prompt-prof.md`](./prompt-prof.md)
+**Fichier** : [`prompt-prof.md`](.prompts/prompt-prof.md)
 
 Crée des fiches de révision techniques toujours à jour en consultant automatiquement la documentation officielle.
 
